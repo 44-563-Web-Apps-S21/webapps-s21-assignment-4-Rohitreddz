@@ -25,7 +25,7 @@
         color: rgb(255, 0, 0);
     }
 .DUMAIN{
-        color: rgb(0, 255, 64);
+        color: rgba(200, 255, 0, 0.973);
     }
 .BIRON{
         color: rgb(255, 0, 255);
@@ -45,4 +45,36 @@ tr:nth-child(even){
     text-shadow: 2px 2px 4px rgb(30, 255, 0);
     color: rgb(109, 45, 182);
     border: 5px dotted black;
+}
+ul.navbar-horizontal {
+    /* remove these */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; /* line up horizontally */
+    color:#000;
+    background-color:rgb(233, 137, 121)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
+/* on hover change the link color*/
+    ul.navbar-horizontal a:hover {
+    background-color: rgb(171, 180, 253);
+    color:white;
+}
+.positionofimage{
+    position:absolute;
+    right:200px;
+}
+body {
+    background-image: url("light-website-backgrounds-light-color-background-images-light-color-background-images-for-website-1024x640.jpg");
+    
+   }
+.postionoficon{
+    position:absolute;
+    right:16px;
 }

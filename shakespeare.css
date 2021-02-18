@@ -1,0 +1,41 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    }
+    
+.stage-direction{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: medium;
+        background-color: lightcyan;
+        color: black;
+    
+    }
+    
+.name{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: medium;
+        color: black;
+    }    
+.stage-direction:hover{
+        background-color: rgb(255, 251, 0);
+        color: rgb(252, 29, 0);
+      
+    }
+    
+.FERDINAND{
+        color: rgb(25, 0, 255);
+    }
+.LONGAVILLE{
+        color: rgb(255, 0, 0);
+    }
+    
+.DUMAIN{
+        color: rgb(0, 255, 64);
+    }
+
+.BIRON{
+        color: rgb(255, 0, 255);
+    }
+    
+ 
